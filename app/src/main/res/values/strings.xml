@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Comp1661AndroidJava.git</string>
+
+    <string-array name="storageTypes">
+        <item>Choose option</item>
+        <item>Home</item>
+        <item>Business</item>
+    </string-array>
 </resources>
